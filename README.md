@@ -1,4 +1,4 @@
-# Capitals-wallpapers
+# Washington Capitals mobile wallpapers
 Sized for an iPhone 14 Pro Max (1290x2796)
 
 Recommended Hex colors for lock screen fonts:
